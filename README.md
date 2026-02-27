@@ -38,7 +38,9 @@ This system requires absolutely no programming with a PC or microcontrollers. By
 
 ## 🔌 配線図 / Wiring Diagram
 
-（※ここに先ほど作成された緑色の配線模式図の画像をドラッグ＆ドロップしてください）
+<img width="1600" height="818" alt="001" src="https://github.com/user-attachments/assets/9ff2b07c-6390-46d1-8a02-eee5954c0630" />
+<img width="1600" height="818" alt="002" src="https://github.com/user-attachments/assets/4ff72345-e1c6-445b-8a5b-96e34bb10f01" />
+
 
 ## ⚙️ 工作の手順 / Assembly Steps
 
