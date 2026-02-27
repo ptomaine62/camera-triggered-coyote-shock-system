@@ -25,7 +25,7 @@ This system requires absolutely no programming with a PC or microcontrollers. By
 ## 🛠 用意するもの / Requirements
 
 1. **デジタルカメラ / Digital Camera (Mirrorless or DSLR)**
-   ホットシューを備えたもの（例：SONY α7Cなど）/ *Must have a hot shoe (e.g., SONY a7C).*
+   ホットシューを備えたもの/ *Must have a hot shoe.*
 2. **ホットシューアダプター / Hot Shoe Sync Adapter**
    3.5mmジャック出力があるもの（例：エツミ E-6785）/ *Must have a 3.5mm output jack.*
 3. **3.5mm オーディオケーブル / 3.5mm Audio Cable**
